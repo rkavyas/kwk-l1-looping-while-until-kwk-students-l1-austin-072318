@@ -8,7 +8,7 @@ def using_while
 	
 	end 
 	
-puts levitation_force 	
+
 	
 end
 
